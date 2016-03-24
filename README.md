@@ -1,3 +1,3 @@
 # Inventory
 my first commit
-conflict
+new conflict test
